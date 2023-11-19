@@ -26,6 +26,9 @@ Bu projede, JavaScript DOM manipülasyonları kullanılarak şu işlevler gerçe
 
 5- Sonuca göre farklı vücut tiplerini temsil eden bir görsel de görüntülenecektir.
 
+## Uygulama Ekran Görüntüleri
+![VKİ-JS](https://github.com/Yldrmceyy/VKI_Proje_js/assets/106755050/3d6cb7ce-6169-492e-9c11-51c5e8b3818b)
+
 ## Katkıda Bulunma
 
  Eğer projeye katkıda bulunmak isterseniz, "Pull Request" ile katkılarınızı iletebilirsiniz.
